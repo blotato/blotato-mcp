@@ -1,0 +1,31 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.blotato/mcp",
+  "description": "Create, schedule, and publish posts and DMs to social platforms.",
+  "title": "Blotato",
+  "version": "1.0.1",
+  "websiteUrl": "https://www.blotato.com",
+  "repository": {
+    "url": "https://github.com/blotato/blotato-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://my.blotato.com/manatee-logo.png",
+      "mimeType": "image/png"
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.blotato.com/mcp",
+      "headers": [
+        {
+          "description": "Bearer token. OAuth-capable clients negotiate this automatically and can ignore this field. Other clients should send `Bearer YOUR_API_KEY` using a key from https://my.blotato.com/settings/api",
+          "isSecret": true,
+          "name": "Authorization"
+        }
+      ]
+    }
+  ]
+}

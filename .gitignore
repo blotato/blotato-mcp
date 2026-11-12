@@ -1,0 +1,14 @@
+# Signing keys
+key.pem
+*.pem
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+
+# Logs
+*.log
+
+# Node.js dependencies
+node_modules/
