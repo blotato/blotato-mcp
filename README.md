@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>
-  The official Model Context Protocol (MCP) server for Blotato. Create, schedule, and publish social posts from your AI assistant. Review analytics, reply to Instagram and Facebook comments and DMs, and run DM automations.
+  The official Model Context Protocol (MCP) server for Blotato.
   </b>
 </p>
 
@@ -38,17 +38,11 @@
 
 ---
 
-Blotato helps creators, marketers, and businesses manage their social media. With the Blotato MCP Server, you can:
+Blotato offers social media APIs for AI agents, helping businesses and agencies with scheduling posts, comment-to-DM automations, messaging, comments, and analytics.
 
-* **Publish and schedule** posts to any connected account, right away, at a set time, or in your next open slot.
-* **Manage your content calendar** by listing, moving, and deleting scheduled posts.
-* **Answer comments and DMs** on Instagram and Facebook.
-* **Run DM automations** that reply when someone comments on a post or sends a message.
-* **Review analytics** and compare your top-performing posts.
-* **Turn sources into posts** by extracting content from YouTube videos, articles, PDFs, and audio.
-* **Create visuals** such as images, carousels, and videos from Blotato templates.
+Use Blotato to grow your business, automate marketing, sell smarter by turning engagement into sales, and save 20+ hours per week. Easily post content across all platforms, respond to comments and messages, set up DM automations to send LINK when someone comments WORD, and track analytics to see what's working.
 
-The server is hosted by Blotato at `https://mcp.blotato.com/mcp` and signs in with **OAuth 2.1** or a **Blotato API key**, so every action runs against your own Blotato account and the social accounts you've connected to it.
+Blotato supports all major social media platforms, including Facebook, Instagram, TikTok, YouTube, X Twitter, LinkedIn, Threads, Pinterest, Bluesky, Slack, and Discord - including stories and trial reels. Blotato is designed to work with all AI agents, plus unlimited whitelabeling for agencies.
 
 ---
 
