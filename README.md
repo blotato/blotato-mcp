@@ -156,6 +156,7 @@ For more, see [Example prompts](https://help.blotato.com/start-with-an-ai-agent/
 | Pinterest | ✅ | ✅ | - | - | - |
 | Bluesky | ✅ | ✅ | - | - | - |
 | Slack | ✅ | - | - | - | - |
+| Discord | ✅ | - | - | - | - |
 
 ## Tools
 
